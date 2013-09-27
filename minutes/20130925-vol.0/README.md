@@ -1,16 +1,15 @@
  JavaScriptテスト勉強会＠福岡 #0 議事メモ
 =======================================
 
- 概要 
---------
+## 概要 ##
 
 * 日時 : 2013/9/25(水) 19:00-22:00(懇親会終了)
 * 場所 : 西中洲スレッド
 * 募集 : zusaar [http://www.zusaar.com/event/1054010](http://www.zusaar.com/event/1054010)
 * 実参加者 : 12名 たぶん・・・
 
- アジェンダ
------------
+
+## アジェンダ ##
 
 1. 主催から挨拶
 2. 会場提供者様より施設の使い方の案内
@@ -19,8 +18,7 @@
 
          本当はKPTやりたかったけど忘れてた(*ﾉω・*)ﾃﾍ
 
- 議事
--------
+## 議事 ##
 
 * 今後どんな形で勉強会を開催していくかを検討
 * 模造紙に5W1Hを書き出して、参加者それぞれの希望や思いを付箋紙に書いて貼り付けてもらった
@@ -107,8 +105,7 @@
 
 ![模造紙1](img/raw-board4.jpg)
 
- ざっくりまとめ
-----------------
+## ざっくりまとめ ##
 
 ### why ###
 みんな色んなことを考えてるねーφ(ﾟДﾟ )ﾌﾑﾌﾑ…
@@ -128,9 +125,20 @@
 ### where ###
 キホンは天神。大人数を呼
 
-### 次回予定 ###
+
+## 次回予定 ##
 
 * 2013/10/16(水)19:00〜＠西中洲スレッドにて（仮）
 * LT1 selenium/webdriverについて @kuronekomichael
 * LT2 MVC＆Stateパターン
 * LT3 Backbone.jsとテスト
+
+
+## 参加された皆さまのログ / Thanks! ##
+
++ [@itoKami1123](https://twitter.com/itoKami1123)さまにまとめて頂いたtogetter
+    + [http://togetter.com/li/569011](http://togetter.com/li/569011)
++ [@cloud10designs](https://twitter.com/cloud10designs)さまのブログエントリ
+    + [http://blog.yusukehirao.com/post/62245622985/jstestfukuoka](http://blog.yusukehirao.com/post/62245622985/jstestfukuoka)
++ [@kuronekomichael](https://twitter.com/kuronekomichael)のブログエントリ
+    + [http://sleepingcatsyndrome.com/post/62328777196](http://sleepingcatsyndrome.com/post/62328777196)
